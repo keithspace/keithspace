@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keithspace
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...code in Javascript
+- 👀 I’m interested in ...cloud computing
+- 🌱 
 - 💞️ I’m looking to collaborate on ...a project with other begginers
 - 📫 How to reach me ...ig@keithsgallery
 
