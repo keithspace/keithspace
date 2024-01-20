@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @keithspace
-- 👀 I’m interested in ...cloud computing
-- 🌱 
-- 💞️ I’m looking to collaborate on ...a project with other begginers
-- 📫 How to reach me ...ig@keithsgallery
+my dad bought me a laptop
 
 <!---
 keithspace/keithspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
